@@ -1,3 +1,4 @@
+ETU 1825
 lancement
 	lancer a.bat dans serveur
 	puis a.bat dans client
